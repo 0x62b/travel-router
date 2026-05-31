@@ -15,8 +15,8 @@ Functions:
 `lcsc.csv`: LCSC BOM list export
 
 ## Cost
-LCSC: 32.49 USD parts + 21.28 USD shipping = 53.77 USD
-PCB: 7 USD + 1.50 USD shipping = 8.50 USD
+LCSC: 32.49 USD parts + 21.28 USD shipping = 53.77 USD\
+PCB: 7 USD + 1.50 USD shipping = 8.50 USD\
 Total: 62.27 USD
 
 ## Assembly
@@ -28,4 +28,11 @@ There's many small SMD components on the PCB that you most likely want to get PC
 [todo]
 
 ## Images
-[todo]
+### Schematic
+<img width="1538" height="1040" alt="image" src="https://github.com/user-attachments/assets/ed2abf24-4986-47e3-9e00-073c60967ed6" />
+<img width="1543" height="1063" alt="image" src="https://github.com/user-attachments/assets/96cd3e1b-4ae9-48a2-9e0a-eb0a5adad160" />
+<img width="1546" height="1063" alt="image" src="https://github.com/user-attachments/assets/b31f70ff-911a-40f3-aa66-ae7c1e17534e" />
+<img width="1546" height="1063" alt="image" src="https://github.com/user-attachments/assets/dc7cad6c-3484-423b-983c-8d2dae439fc3" />
+
+### 3D render
+<img width="1241" height="1125" alt="image" src="https://github.com/user-attachments/assets/f4e66f0b-72fc-420f-8c99-cff9f82f8d94" />
