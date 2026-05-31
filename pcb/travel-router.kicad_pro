@@ -547,7 +547,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../production/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -671,7 +671,7 @@
         "uuid": "10ff01a9-f304-4749-ad89-df55c3f3b44a"
       }
     ],
-    "used_designators": "C3-4,#PWR6-11,#PWR27,U1,U10-12",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
