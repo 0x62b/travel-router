@@ -1,5 +1,5 @@
 # CM5 Router
-A carrier board for Raspberry Pi CM5 with dual 1G ethernet and wifi that turns it into a portable travel router. Also supports LTE/5G dongle over USB ([example](https://www.telstra.com.au/internet/mobile-broadband/prepaid/4gx-mf833v-usb-2026)).
+A carrier board for Raspberry Pi CM5 with dual 1G ethernet and wifi that turns it into a portable travel router. Also supports LTE/5G dongle over USB ([example](https://www.telstra.com.au/internet/mobile-broadband/prepaid/4gx-mf833v-usb-2026)). Using OpenWRT for firmware.
 
 Functions:
 * Dual 1G ethernet
@@ -24,8 +24,15 @@ Prerequisites: soldered PCB and printed case
 There's many small SMD components on the PCB that you most likely want to get PCBA'd, like the module's connector, QFNs, etc.
 
 1. Attach the CM5 module to the carrier board
-2. Place into case and screw into place
-[todo]
+2. Put in an RTC battery
+3. (optional but recommended) Screw in a heatsink/fan assembly and plug its connector into the fan connector on the carrier.
+4. Place into case and screw into place
+5. Affix the wifi/BT antenna and plug into the CM5
+6. Plug in an HDMI cable and flash and configure OpenWRT
+7. (TODO CONFIG INSTRUCTIONS
+8. Disconnect the HDMI cable and screw on the top case
+9. Glue the power button into place
+10. yay
 
 ## Images
 ### Schematic
@@ -34,5 +41,10 @@ There's many small SMD components on the PCB that you most likely want to get PC
 <img width="1546" height="1063" alt="image" src="https://github.com/user-attachments/assets/b31f70ff-911a-40f3-aa66-ae7c1e17534e" />
 <img width="1546" height="1063" alt="image" src="https://github.com/user-attachments/assets/dc7cad6c-3484-423b-983c-8d2dae439fc3" />
 
-### 3D render
+### PCB render
 <img width="1241" height="1125" alt="image" src="https://github.com/user-attachments/assets/f4e66f0b-72fc-420f-8c99-cff9f82f8d94" />
+
+### Full render
+<img width="1271" height="895" alt="image" src="https://github.com/user-attachments/assets/b9c107d1-065a-491a-add4-dd584dee0878" />
+
+### Zine page
