@@ -1,4 +1,4 @@
-Name,Unit Price,Quantity,Extended Price,Notes,Link
+Name,Unit Price (USD),Quantity,Extended Price (USD),Notes,Link
 10164227-1001A1RLF (Amphenol),1.6916,2,3.38,,https://www.lcsc.com/product-detail/C6782225.html
 RTL8111H-CG (REALTEK),3.1976,1,3.20,,https://www.lcsc.com/product-detail/C2761340.html
 XL2EL89COI-111YLC-25M (YXC),0.0646,10,0.65,MOQ=10,https://www.lcsc.com/product-detail/C5444544.html
@@ -25,3 +25,7 @@ CL03A104KP3NNNC (Samsung),0.0017,100,0.17,MOQ=100,https://www.lcsc.com/product-d
 CL05A106MP5NUNC (Samsung),0.0116,20,0.23,MOQ=20,https://www.lcsc.com/product-detail/C315248.html
 EEEFTH101XAP (PANASONIC),0.3662,5,1.83,MOQ=5,https://www.lcsc.com/product-detail/C165974.html
 CL05B104KO5NNNC (Samsung),0.0016,100,0.16,MOQ=100,https://www.lcsc.com/product-detail/C1525.html
+CR2032 battery,0,1,0,owned,N/A
+Waveshare CM5 heatsink/fan assembly,6.99,1,6.99,owned,https://www.waveshare.com/cm5-fan-3007-b-5v.htm
+Raspberry Pi CM5,0,1,0,owned,https://www.raspberrypi.com/products/compute-module-5/
+PCB,8.5,1,8.5,price for 5,https://jlcpcb.com
