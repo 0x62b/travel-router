@@ -5,7 +5,12 @@ Functions:
 * Dual 1G ethernet
 * Wifi through onboard antenna and USB
 * Support for LTE/5G dongle over USB
-* Portable size
+* 100x100mm board, portable case
+
+## Motivation
+I had a spare CM5 lying around, as any normal person would (/s). I also wanted to learn high-speed signal routing, so making a CM5 carrier board would be a perfect excuse. Also, I needed a travel router, so I figured that this would be a fun project to make.
+
+As you can see by the cost breakdown later, this project is not economical at all if you want to build it from scratch and don't have a CM5 already. However, if you already have a CM5, this can be used just like any other carrier board.
 
 ## Repo Structure
 `cad`: CAD files, 3D models, case design\
@@ -14,10 +19,13 @@ Functions:
 `bom.csv`: BOM
 `lcsc.csv`: LCSC BOM list export
 
-## Cost
+## Cost breakdown
 LCSC: 32.49 USD parts + 21.28 USD shipping = 53.77 USD\
+Other (parts I own but are still in the BOM):\
+* Heatsink/fan assembly: 15 USD from amazon / 7 USD + shipping from Waveshare
+* CM5 2GB/32GB w/ wireless: 97.50 USD from DigiKey
 PCB: 7 USD + 1.50 USD shipping = 8.50 USD\
-Total: 62.27 USD
+Total: 62.27 USD (parts I need) // 174.77 USD (total)
 
 ## Assembly
 Prerequisites: soldered PCB and printed case
