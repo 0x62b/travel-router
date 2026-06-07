@@ -48,3 +48,4 @@ There's many small SMD components on the PCB that you most likely want to get PC
 <img width="1271" height="895" alt="image" src="https://github.com/user-attachments/assets/b9c107d1-065a-491a-add4-dd584dee0878" />
 
 ### Zine page
+<img width="486" height="690" alt="image" src="https://github.com/user-attachments/assets/fc87d2a8-d078-4cf6-bfca-625877372399" />
