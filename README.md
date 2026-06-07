@@ -48,7 +48,13 @@ This should be a very easy print. No specific print settings or filament are req
 10. yay
 
 ## Configuring OpenWRT
-[todo]
+(this is a wip as i try to figure out how this software works)\
+(no i do not know. once i finish building this thing, assuming it works, ill have to wing it)\
+The basic gist of it is that you want one of the Ethernet ports configured as a WAN port, one as a LAN port, and wifi set up as a bridge, where you can get a "WAN" network over wifi and broadcast it as "LAN". If you have a USB cellular modem, you can also add that.
+
+The wired interfaces configuration _should_ be relatively self-explanatory.
+Follow this [guide](https://www.linuxscrew.com/openwrt-network-setup) for the Wifi bridge part.
+Follow this [guide](https://ten64doc.traverse.com.au/applications/cellular/) for the cellular modem part.
 
 ## Images
 ### Schematic
