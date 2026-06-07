@@ -33,7 +33,7 @@ Total: 62.27 USD (parts I need) // 174.77 USD (total)
 This can't really be made much more simple. It is a very hard board to handsolder, even with decent equipment. There are very fine-pitch QFNs and connectors, along with some 0201 passives (decoupling caps). If you are building this for some reason and really want to solder the board yourself, start with the smaller passives and work up to bigger parts, doing the big through hole components last.
 
 ### 3D printing
-This should be a very easy print. No specific print settings or filament is required. A BambuStudio 3mf file is included in the `cad/` subdirectory.
+This should be a very easy print. No specific print settings or filament are required, except for supports for the ports on the bottom case. A BambuStudio 3mf file is included in the `cad/` subdirectory.
 
 ### Full assembly
 1. Attach the CM5 module to the carrier board
