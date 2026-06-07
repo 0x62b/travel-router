@@ -21,7 +21,7 @@ As you can see by the cost breakdown later, this project is not economical at al
 
 ## Cost breakdown
 LCSC: 32.49 USD parts + 21.28 USD shipping = 53.77 USD\
-Other (parts I own but are still in the BOM):\
+Other (parts I own but are still in the BOM):
 * Heatsink/fan assembly: 15 USD from amazon / 7 USD + shipping from Waveshare
 * CM5 2GB/32GB w/ wireless: 97.50 USD from DigiKey
 
@@ -29,19 +29,26 @@ PCB: 7 USD + 1.50 USD shipping = 8.50 USD\
 Total: 62.27 USD (parts I need) // 174.77 USD (total)
 
 ## Assembly
-Prerequisites: soldered PCB and printed case
-There's many small SMD components on the PCB that you most likely want to get PCBA'd, like the module's connector, QFNs, etc.
+### Soldering
+This can't really be made much more simple. It is a very hard board to handsolder, even with decent equipment. There are very fine-pitch QFNs and connectors, along with some 0201 passives (decoupling caps). If you are building this for some reason and really want to solder the board yourself, start with the smaller passives and work up to bigger parts, doing the big through hole components last.
 
+### 3D printing
+This should be a very easy print. No specific print settings or filament is required. A BambuStudio 3mf file is included in the `cad/` subdirectory.
+
+### Full assembly
 1. Attach the CM5 module to the carrier board
 2. Put in an RTC battery
 3. (optional but recommended) Screw in a heatsink/fan assembly and plug its connector into the fan connector on the carrier.
 4. Place into case and screw into place
 5. Affix the wifi/BT antenna and plug into the CM5
 6. Plug in an HDMI cable and flash and configure OpenWRT
-7. (TODO CONFIG INSTRUCTIONS
+7. Follow the instructions in `Configuring OpenWRT`
 8. Disconnect the HDMI cable and screw on the top case
 9. Glue the power button into place
 10. yay
+
+## Configuring OpenWRT
+[todo]
 
 ## Images
 ### Schematic
