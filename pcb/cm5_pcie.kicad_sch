@@ -4546,6 +4546,16 @@
 	)
 	(wire
 		(pts
+			(xy 69.85 81.28) (xy 77.47 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b68f12f-c37d-44e5-8058-8d647bba8a96")
+	)
+	(wire
+		(pts
 			(xy 52.07 59.69) (xy 62.23 59.69)
 		)
 		(stroke
@@ -5674,6 +5684,16 @@
 		)
 		(uuid "b851b988-a652-4da6-8c2a-18bead449f78")
 	)
+	(label "+3.3v"
+		(at 69.85 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b91ddc7a-8a63-4460-9c54-05870ce9ad63")
+	)
 	(label "TRD1-"
 		(at 133.35 43.18 180)
 		(effects
@@ -5814,6 +5834,17 @@
 		)
 		(uuid "fb48dfe1-a4e6-44bc-a02b-dc2b3068b18a")
 	)
+	(hierarchical_label "+3.3v"
+		(shape input)
+		(at 77.47 81.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "039cb5f0-8759-4c8b-b73a-faa0132de843")
+	)
 	(hierarchical_label "PCIe_RX+"
 		(shape input)
 		(at 67.31 127 0)
@@ -5913,7 +5944,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0ebdc808-5fe9-42c0-8e85-601af02216e3")
-		(property "Reference" "U6"
+		(property "Reference" "U9"
 			(at 34.036 82.804 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6101,7 +6132,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "U6")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -6119,7 +6150,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20a3849f-4598-4e61-88df-690792fe442b")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR028"
 			(at 48.26 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -6179,7 +6210,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "#PWR030")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -6197,7 +6228,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25b06d70-35c3-4bdb-82dd-6dd6ea4bce59")
-		(property "Reference" "C20"
+		(property "Reference" "C16"
 			(at 50.8 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6261,7 +6292,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C20")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -6464,7 +6495,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a7ec195-fc24-4c7b-9466-1e9face9b336")
-		(property "Reference" "C10"
+		(property "Reference" "C20"
 			(at 143.256 42.164 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6528,7 +6559,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C10")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -6546,7 +6577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e06350f-60a5-460a-9e3d-fe51fe4932b7")
-		(property "Reference" "U9"
+		(property "Reference" "U11"
 			(at 113.03 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6632,7 +6663,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "U9")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -6649,7 +6680,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4c7c3fa3-34a0-49d1-b686-ca1c338ea71f")
-		(property "Reference" "R7"
+		(property "Reference" "R4"
 			(at 73.914 118.11 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6711,7 +6742,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "R7")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -6728,7 +6759,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "555426e7-2af7-4348-8a82-c8ecf81648fa")
-		(property "Reference" "U7"
+		(property "Reference" "U12"
 			(at 163.322 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6846,7 +6877,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "U7")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -6864,7 +6895,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "564ab6ab-9adb-459b-817e-76e5639e06cb")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR035"
 			(at 158.75 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -6924,7 +6955,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "#PWR025")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -7020,7 +7051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f721b45-9dab-4f5b-a652-6272355039bd")
-		(property "Reference" "C13"
+		(property "Reference" "C12"
 			(at 38.1 21.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7084,7 +7115,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C13")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -7101,7 +7132,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72985746-788e-41eb-bc4e-7bf3ceb42142")
-		(property "Reference" "TP1"
+		(property "Reference" "TP2"
 			(at 69.342 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7112,7 +7143,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "LED0"
 			(at 75.438 100.33 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7162,7 +7193,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "TP1")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -7180,7 +7211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72dbd5b2-6d66-480f-9bae-58aed48bc647")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR027"
 			(at 46.99 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7240,7 +7271,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "#PWR028")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -7258,7 +7289,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8bac1437-ad0b-4ea7-b221-e5e6eb0837cd")
-		(property "Reference" "C12"
+		(property "Reference" "C10"
 			(at 25.4 21.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7322,7 +7353,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C12")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -7340,7 +7371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a11d6935-828f-4267-beac-7cbb730c014a")
-		(property "Reference" "R5"
+		(property "Reference" "R6"
 			(at 83.82 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7404,7 +7435,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -7504,7 +7535,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7f547e6-04fe-49b9-b1f8-87ec9ce4caba")
-		(property "Reference" "C16"
+		(property "Reference" "C19"
 			(at 76.2 21.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7568,7 +7599,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C16")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -7585,7 +7616,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ca78f5fd-be53-4a6a-a4bd-09d3b58d82d9")
-		(property "Reference" "R4"
+		(property "Reference" "R5"
 			(at 68.58 90.678 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7647,7 +7678,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "R4")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -7743,7 +7774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d471d848-2aec-4b7e-9a70-1977e829a40b")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 83.82 121.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7807,7 +7838,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -7825,7 +7856,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e32275cf-d204-452b-b2fa-83847e5714c1")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR030"
 			(at 81.28 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -7885,7 +7916,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "#PWR034")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -7903,7 +7934,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e32b1246-4c46-4f21-80c4-f2ee05605fc9")
-		(property "Reference" "U8"
+		(property "Reference" "U10"
 			(at 113.03 27.94 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7989,7 +8020,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "U8")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -8167,7 +8198,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7e56399-5207-4613-9b4f-a3266e610e84")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR034"
 			(at 139.7 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -8227,7 +8258,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "#PWR026")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -8245,7 +8276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eaa67d0e-5640-4dae-88d8-315f07e1f31d")
-		(property "Reference" "C17"
+		(property "Reference" "C14"
 			(at 38.1 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8309,7 +8340,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C17")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -8327,7 +8358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec4beaa3-fcf4-44de-a287-fbf719d9e927")
-		(property "Reference" "C19"
+		(property "Reference" "C13"
 			(at 38.1 34.2899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8391,7 +8422,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C19")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -8409,7 +8440,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f754abfc-bd4f-4633-876f-78d1582c1bc7")
-		(property "Reference" "C15"
+		(property "Reference" "C17"
 			(at 63.5 21.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8473,7 +8504,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C15")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -8491,7 +8522,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffead7b5-8287-445d-ac8c-2edc90d58f15")
-		(property "Reference" "C14"
+		(property "Reference" "C15"
 			(at 50.8 21.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8555,7 +8586,7 @@
 		(instances
 			(project "travel-router"
 				(path "/10ff01a9-f304-4749-ad89-df55c3f3b44a/06da1c32-2bea-440c-bc95-6a2bc08a6089"
-					(reference "C14")
+					(reference "C15")
 					(unit 1)
 				)
 			)
