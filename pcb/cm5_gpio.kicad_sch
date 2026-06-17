@@ -10208,7 +10208,7 @@
 		)
 		(uuid "5bfe6492-0a38-4f6e-bbac-f54560a88302")
 	)
-	(label "+3.3v"
+	(label "+5v"
 		(at 118.11 171.45 180)
 		(effects
 			(font
@@ -10218,7 +10218,7 @@
 		)
 		(uuid "5da11f77-8601-4e58-89cb-7938d5b48293")
 	)
-	(label "+3.3v"
+	(label "+5v"
 		(at 138.43 171.45 180)
 		(effects
 			(font
