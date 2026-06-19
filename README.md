@@ -20,13 +20,13 @@ As you can see by the cost breakdown later, this project is not economical at al
 `lcsc.csv`: LCSC BOM list export
 
 ## Cost breakdown
-LCSC: 32.49 USD parts + 21.28 USD shipping = 53.77 USD\
+LCSC: 34.59 USD parts + 8.1 USD shipping = 42.69 USD\
 Other (parts I own but are still in the BOM):
 * Heatsink/fan assembly: 15 USD from amazon / 7 USD + shipping from Waveshare
 * CM5 2GB/32GB w/ wireless: 97.50 USD from DigiKey
 
 PCB: 7 USD + 1.50 USD shipping = 8.50 USD\
-Total: 62.27 USD (parts I need) // 174.77 USD (total)
+Total: 51.19 (parts I need) // 170.69 (total)
 
 ## Assembly
 ### Soldering
