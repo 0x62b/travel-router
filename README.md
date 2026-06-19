@@ -36,16 +36,7 @@ This can't really be made much more simple. It is a very hard board to handsolde
 This should be a very easy print. No specific print settings or filament are required, except for supports for the ports on the bottom case. A BambuStudio 3mf file is included in the `cad/` subdirectory.
 
 ### Full assembly
-1. Attach the CM5 module to the carrier board
-2. Put in an RTC battery
-3. (optional but recommended) Screw in a heatsink/fan assembly and plug its connector into the fan connector on the carrier.
-4. Place into case and screw into place
-5. Affix the wifi/BT antenna and plug into the CM5
-6. Plug in an HDMI cable and flash and configure OpenWRT
-7. Follow the instructions in `Configuring OpenWRT`
-8. Disconnect the HDMI cable and screw on the top case
-9. Glue the power button into place
-10. yay
+[to update]
 
 ## Configuring OpenWRT
 (this is a wip as i try to figure out how this software works)\
@@ -58,16 +49,16 @@ Follow this [guide](https://ten64doc.traverse.com.au/applications/cellular/) for
 
 ## Images
 ### Schematic
-<img width="1538" height="1040" alt="image" src="https://github.com/user-attachments/assets/ed2abf24-4986-47e3-9e00-073c60967ed6" />
-<img width="1543" height="1063" alt="image" src="https://github.com/user-attachments/assets/96cd3e1b-4ae9-48a2-9e0a-eb0a5adad160" />
-<img width="1546" height="1063" alt="image" src="https://github.com/user-attachments/assets/b31f70ff-911a-40f3-aa66-ae7c1e17534e" />
-<img width="1546" height="1063" alt="image" src="https://github.com/user-attachments/assets/dc7cad6c-3484-423b-983c-8d2dae439fc3" />
+<img width="1557" height="1069" alt="image" src="https://github.com/user-attachments/assets/eaa025f9-a796-48bc-b48e-eb06d95c2980" />
+<img width="1557" height="1069" alt="image" src="https://github.com/user-attachments/assets/1d73d44c-23b6-4bde-9b6c-a603a32e9d7d" />
+<img width="1557" height="1069" alt="image" src="https://github.com/user-attachments/assets/e26ea8ff-ee85-4236-9142-29a85059598b" />
+<img width="1557" height="1069" alt="image" src="https://github.com/user-attachments/assets/89dddebb-a0d1-40b8-87a2-ee03db9734ec" />
 
 ### PCB render
-<img width="1241" height="1125" alt="image" src="https://github.com/user-attachments/assets/f4e66f0b-72fc-420f-8c99-cff9f82f8d94" />
+<img width="1238" height="1123" alt="image" src="https://github.com/user-attachments/assets/3fb5c116-3a4a-4d5a-95f5-2b7d286f4261" />
 
 ### Full render
-<img width="1271" height="895" alt="image" src="https://github.com/user-attachments/assets/b9c107d1-065a-491a-add4-dd584dee0878" />
+[to update]
 
 ### Zine page
-<img width="486" height="690" alt="image" src="https://github.com/user-attachments/assets/fc87d2a8-d078-4cf6-bfca-625877372399" />
+[to update]
