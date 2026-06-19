@@ -78,83 +78,87 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|102800000|104957499|2198e161-eae6-4327-9a7d-68b2623c05e9|23002ab2-44df-4c72-b32e-bfd4c39950a5",
+          "clearance|102800000|104800000|23002ab2-44df-4c72-b32e-bfd4c39950a5|fd7ccbbc-2c9a-4c6b-94ab-7812a8cad709",
           ""
         ],
         [
-          "clearance|103300000|104957499|1c829b88-a0b4-44bd-97dd-8e3123cd3201|79ae370c-33be-4a54-8a61-5fc4247320c4",
+          "clearance|103300000|104957499|20dc17fa-342d-4b76-97d0-59638e469458|79ae370c-33be-4a54-8a61-5fc4247320c4",
           ""
         ],
         [
-          "clearance|104300000|104800000|338f53bd-c5db-4db5-9949-31489181bfa2|cd1b00d1-a683-471d-8855-1cd8e3cb646d",
+          "clearance|104300000|104800000|338f53bd-c5db-4db5-9949-31489181bfa2|5035ae2d-8991-45c8-a0ef-24423d0aef3f",
           ""
         ],
         [
-          "clearance|104800000|104800000|30685b8f-b9f0-4b9c-9203-6ef427e07458|9b27f659-01e9-4d09-9804-91c5d915f5ef",
+          "clearance|104800000|104800000|30685b8f-b9f0-4b9c-9203-6ef427e07458|5645b44e-e197-4360-b2c3-3edf8a1bf093",
           ""
         ],
         [
-          "clearance|110300000|104957499|c9e41bcb-c818-4ee4-af3b-3c1971992db1|f5bbff15-5a1a-4298-a547-586c32305898",
+          "clearance|110300000|104957499|88d9e578-9eed-4cab-adf2-a3efe1f210c8|f5bbff15-5a1a-4298-a547-586c32305898",
           ""
         ],
         [
-          "clearance|110800000|104957499|6e8c537d-436b-4769-a974-6cc7ef5d4dfb|ddc16d86-4a0e-48e3-99bc-f6abe69d8884",
+          "clearance|110800000|104957499|866488f1-a180-43d2-a223-5b6129b12b49|ddc16d86-4a0e-48e3-99bc-f6abe69d8884",
           ""
         ],
         [
-          "clearance|111800000|104800000|4f77e3fb-e307-40c5-bc32-30ac058d9917|ca101d42-1fc9-4316-b1aa-6251c570de34",
+          "clearance|111800000|104957499|2bd815b8-7a0b-46de-ad3b-9fd442d7e44f|4f77e3fb-e307-40c5-bc32-30ac058d9917",
           ""
         ],
         [
-          "clearance|112300000|104800000|195170af-22fd-428b-9b4f-fff8baa6f574|bafd9ca5-968f-454c-a6f3-19b5d87f0fad",
+          "clearance|112300000|104800000|195170af-22fd-428b-9b4f-fff8baa6f574|b67095c5-9f81-496a-98c7-f9ce3b761570",
           ""
         ],
         [
-          "clearance|123600000|104750000|9d3c6a0e-4663-436d-a43e-69f572d12229|e8123ad3-b48a-4e56-b029-72a43e734665",
+          "clearance|123600000|104750000|9d3c6a0e-4663-436d-a43e-69f572d12229|d4f793cd-af3d-4c3d-95a7-b3590d5df32c",
           ""
         ],
         [
-          "clearance|124100000|104750000|6744693b-6dc2-4230-b8e8-f17647710ad9|a17e9dbf-1994-46b4-b0c1-52e03bf9d999",
+          "clearance|124100000|104750000|6744693b-6dc2-4230-b8e8-f17647710ad9|809478cb-c1ce-4cc1-a461-d5b09b7fd335",
           ""
         ],
         [
-          "clearance|125100000|104750000|c47a38cc-16fb-4ffe-96a8-a995d11ca2a6|c9e8eeea-51be-49b6-bba9-4072f39453dd",
+          "clearance|125100000|104907499|87831628-6e7c-4e0f-8e00-997c3c5c36a2|c47a38cc-16fb-4ffe-96a8-a995d11ca2a6",
           ""
         ],
         [
-          "clearance|125600000|104907499|740f724b-e31c-4cbf-9510-1c1d5ce131df|cb9c2a9d-3525-4f23-9633-62fafd36b74a",
+          "clearance|125600000|104907499|3ff6e055-bf80-4ee2-8c2f-85df482235d6|cb9c2a9d-3525-4f23-9633-62fafd36b74a",
           ""
         ],
         [
-          "clearance|131100000|104750000|4a8076c5-b923-4082-994a-35c51e37d5f3|db6bd3ed-d56f-4fc3-9ca6-dc92e13fb015",
+          "clearance|131100000|104750000|4a8076c5-b923-4082-994a-35c51e37d5f3|bb77a3cc-8461-4e87-ab03-e243acbb5f38",
           ""
         ],
         [
-          "clearance|131600000|104750000|7f1adfc7-d191-433b-b983-f512b9129e9b|e287a47c-a6df-4d86-a02a-f8f40d5fe701",
+          "clearance|131600000|104907499|6f223109-9353-4297-88ba-5d68e24c31f1|7f1adfc7-d191-433b-b983-f512b9129e9b",
           ""
         ],
         [
-          "clearance|132600000|104750000|4c85eeea-9aa3-4f21-a7c9-560ca994c40f|feed0270-59ad-47d7-88e8-974c28b69807",
+          "clearance|132600000|104750000|4c85eeea-9aa3-4f21-a7c9-560ca994c40f|c59a9739-851f-41be-82ef-692ac3bd365a",
           ""
         ],
         [
-          "clearance|133100000|104907499|3ac3eb19-7b27-4f85-9889-3f8e5afccdab|7d9498ef-ee6e-4b68-9ea5-0034066c9869",
+          "clearance|132664400|104350000|4c85eeea-9aa3-4f21-a7c9-560ca994c40f|5e38c09c-f830-4ba2-85a3-4644f6b7e450",
           ""
         ],
         [
-          "clearance|141492501|105925000|00830604-c376-497c-b898-ce769b9985bd|4c0a1b09-f314-4710-b08c-e15347112694",
+          "clearance|133100000|104750000|7d9498ef-ee6e-4b68-9ea5-0034066c9869|bfe97538-aaf9-4331-9cee-76731c7a1f0c",
           ""
         ],
         [
-          "clearance|141492501|106425000|5d08df65-cfd8-49fd-ab13-aef92c8b8c26|eb89606b-09a9-47c6-afd3-b0fcc2445e53",
+          "clearance|141492501|106425000|d5a6d789-e4ba-435b-82cd-2b448835fab7|eb89606b-09a9-47c6-afd3-b0fcc2445e53",
           ""
         ],
         [
-          "clearance|141492501|107425000|32710baa-b5c8-487c-a1f8-c94265f99882|58bcca89-6aa2-4828-bf91-d8487060044d",
+          "clearance|141650000|105925000|4c0a1b09-f314-4710-b08c-e15347112694|73719f85-5455-4670-8494-6594258f87ee",
           ""
         ],
         [
-          "clearance|141492501|107925000|74e7ed79-3042-4fd9-b58b-262d56520d16|b4314de3-adc2-4608-a4ca-e59db6965bd6",
+          "clearance|141650000|107425000|58bcca89-6aa2-4828-bf91-d8487060044d|6d16aaa0-e372-4cd4-aa1a-0861e7920fbc",
+          ""
+        ],
+        [
+          "clearance|141650000|107925000|b4314de3-adc2-4608-a4ca-e59db6965bd6|f07df904-ac40-4f47-af51-11005a12bf1e",
           ""
         ]
       ],
@@ -292,6 +296,7 @@
       ],
       "track_widths": [
         0.0,
+        0.1212,
         0.1326,
         0.1671,
         0.6,
@@ -330,7 +335,7 @@
         },
         {
           "diameter": 0.45,
-          "drill": 0.2
+          "drill": 0.25
         },
         {
           "diameter": 1.2,
@@ -604,7 +609,7 @@
         "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.1326,
+        "diff_pair_width": 0.1532,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
