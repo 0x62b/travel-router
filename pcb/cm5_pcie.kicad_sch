@@ -4222,8 +4222,8 @@
 	)
 	(text_box "RJ45"
 		(exclude_from_sim no)
-		(at 90.17 11.43 0)
-		(size 106.68 91.44)
+		(at 90.17 12.7 0)
+		(size 106.68 90.17)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
