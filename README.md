@@ -5,7 +5,7 @@ Functions:
 * Dual 1G ethernet
 * Wifi through onboard antenna and USB
 * Support for LTE/5G dongle over USB
-* 100x100mm board, portable case
+* 80x80mm board, portable case
 
 ## Motivation
 I had a spare CM5 lying around, as any normal person would (/s). I also wanted to learn high-speed signal routing, so making a CM5 carrier board would be a perfect excuse. Also, I needed a travel router, so I figured that this would be a fun project to make.
@@ -26,11 +26,11 @@ Other (parts I own but are still in the BOM):
 * CM5 2GB/32GB w/ wireless: 97.50 USD from DigiKey
 
 PCB: 7 USD + 1.50 USD shipping = 8.50 USD\
-Total: 51.19 (parts I need) // 170.69 (total)
+Total: 51.19 USD (parts I need) // 163.69 USD (total)
 
 ## Assembly
 ### Soldering
-This can't really be made much more simple. It is a very hard board to handsolder, even with decent equipment. There are very fine-pitch QFNs and connectors, along with some 0201 passives (decoupling caps). If you are building this for some reason and really want to solder the board yourself, start with the smaller passives and work up to bigger parts, doing the big through hole components last.
+This can't really be made much more simple. It is a very hard board to handsolder, even with decent equipment. There are very fine-pitch QFNs and connectors, along with some 0201 passives (decoupling caps). If you are building this for some reason and really want to solder the board yourself, start with the smaller passives and work up to bigger parts, doing the big through hole components last. If you want to recreate this project, PCBA may be a good choice, at least for part of the board.
 
 ### 3D printing
 This should be a very easy print. No specific print settings or filament are required, except for supports for the ports on the bottom case. A BambuStudio 3mf file is included in the `cad/` subdirectory.
