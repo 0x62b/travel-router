@@ -1,27 +1,28 @@
 ﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
-1,C6782225,10164227-1001A1RLF,Amphenol,"SMD,P=0.4mm",,"100 Position Board to Board Connector Surface Mount,P=0.4mm Gold",yes,2,1,1,1.6916,3.38,
-2,-,RTL8111H-CG,REALTEK,托盘(TRAY),,-,-,1,1,1,3.1976,3.20,-
-3,C5444544,XL2EL89COI-111YLC-25M,YXC Crystal Oscillators,SMD3225-4P,,Crystal 25MHz ±10ppm 12pF SMD3225-4P,yes,10,10,10,0.0646,0.65,https://www.lcsc.com/product-detail/C5444544.html
-4,C5289795,476591100,MOLEX,SMD,,"SMD USB, DVI, HDMI Connector Assemblies RoHS",yes,1,1,1,1.5875,1.59,https://www.lcsc.com/product-detail/C5289795.html
-5,C1855726,TPD2E2U06DCKR,TI,SC-70-3,,12.4VC Clamp 5.5A@8/20us Ipp TVS DIODE SC-70-3,yes,5,5,5,0.1534,0.77,https://www.lcsc.com/product-detail/C1855726.html
-6,C90627,TPD4EUSB30DQAR,TI,USON-10(1x2.5),,8VC Clamp 5A@8/20us Ipp ESD DIODE USON-10(1x2.5),yes,5,5,5,0.4568,2.28,https://www.lcsc.com/product-detail/C90627.html
-7,C22457393,LPJG0926HENL,LINK-PP,Through Hole,,Shielded 1 Right Angle With LED Through Hole Modular/Ethernet Connector Jacks With Magnetics RoHS,yes,2,1,1,4.4253,8.85,https://www.lcsc.com/product-detail/C22457393.html
-8,C212302,AP2553W6-7,DIODES,SOT-26,,"1 Active High 2.1A High Side Switch SOT-26 Power Distribution Switches, Load Drivers RoHS",yes,5,5,5,0.2334,1.17,https://www.lcsc.com/product-detail/C212302.html
-9,C3235509,RT9742SNGV,RICHTEK,SOT-23-3,,"1 Active High 500mA High Side Switch SOT-23-3 Power Distribution Switches, Load Drivers RoHS",yes,1,1,1,0.4763,0.48,https://www.lcsc.com/product-detail/C3235509.html
-10,C53447020,LXW-TS-6X6X5-SMD,LXWCONN,"SMD-4P,6x6mm",,"12V Without Bracket 6mm Round Button SPST-NO 6mm 50mA SMD-4P,6x6mm Tactile Switches RoHS",yes,20,20,20,0.0219,0.44,https://www.lcsc.com/product-detail/C53447020.html
-11,C145071,RC0402FR-072K49L,YAGEO,0402,,2.49kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,100,100,0.0010,0.10,https://www.lcsc.com/product-detail/C145071.html
-12,C106235,RC0402FR-071KL,YAGEO,0402,,1kΩ 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0009,0.09,https://www.lcsc.com/product-detail/C106235.html
-13,C114761,RC0402FR-0715KL,YAGEO,0402,,15kΩ 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0009,0.09,https://www.lcsc.com/product-detail/C114761.html
-14,C238069,1060TR,Keystone,-,,Battery Product Accessories RoHS,yes,1,1,1,0.9438,0.94,https://www.lcsc.com/product-detail/C238069.html
-15,C720548,USB-269-BRW,XUNPU,"Through Hole,Right Angle",,USB-A (USB TYPE-A) Receptacle Connector 4 Positionx2 Right Angle,yes,5,5,5,0.2941,1.47,https://www.lcsc.com/product-detail/C720548.html
-16,C160390,BM04B-SRSS-TB(LF)(SN),JST,"SMD,P=1mm",,"Connector Header 4 position 1mm Pitch 1A Surface Mount,Vertical -25℃~+85℃",yes,5,5,5,0.2199,1.10,https://www.lcsc.com/product-detail/C160390.html
-17,C42431818,PZ2.54-2X5P-H25,JXTCONN,"Through Hole,P=2.54mm",,"Pin Header 2 2.5mm 6mm 10P -40℃~+105℃ 3mm 2.54mm 3A 2.54mm 2x5P Through Hole,P=2.54mm Headers, Male Pins RoHS",yes,10,10,10,0.0525,0.53,https://www.lcsc.com/product-detail/C42431818.html
-18,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,yes,5,5,5,0.1725,0.86,https://www.lcsc.com/product-detail/C165948.html
-19,C965793,XL-1005UGC,XINGLIGHT,0402,,Emerald Green 531nm LED Indication - Discrete 3V 0402,yes,50,50,50,0.0089,0.45,https://www.lcsc.com/product-detail/C965793.html
-20,C25503345,XL-1005SURC,XINGLIGHT,0402,,Red 625nm LED Indication - Discrete 1.8V~2.4V 0402,yes,50,50,50,0.0084,0.42,https://www.lcsc.com/product-detail/C25503345.html
-21,C5969171,CL03A475MQ5C65C,Samsung Electro-Mechanics,0201,,4.7uF X5R ±20% 6.3V 0201 Ceramic Capacitors RoHS,yes,10,10,10,0.0458,0.46,https://www.lcsc.com/product-detail/C5969171.html
-22,C26406,CL05C120JB5NNNC,Samsung Electro-Mechanics,0402,,12pF ±5% 50V Ceramic Capacitor C0G 0402,yes,100,100,100,0.0052,0.52,https://www.lcsc.com/product-detail/C26406.html
-23,C49062,CL03A104KP3NNNC,Samsung Electro-Mechanics,0201,,100nF ±10% 10V Ceramic Capacitor X5R 0201,yes,100,100,100,0.0017,0.17,https://www.lcsc.com/product-detail/C49062.html
-24,C315248,CL05A106MP5NUNC,Samsung Electro-Mechanics,0402,,10uF ±20% 10V Ceramic Capacitor X5R 0402,yes,20,20,20,0.0116,0.23,https://www.lcsc.com/product-detail/C315248.html
-25,C165974,EEEFTH101XAP,PANASONIC,"SMD,D6.3xL7.7mm",,100uF ±20% 50V Aluminum Electrolytic Capacitors 2000hrs@105℃,yes,5,5,5,0.3662,1.83,https://www.lcsc.com/product-detail/C165974.html
-26,C1525,CL05B104KO5NNNC,Samsung Electro-Mechanics,0402,,100nF ±10% 16V Ceramic Capacitor X7R 0402,yes,100,100,100,0.0016,0.16,https://www.lcsc.com/product-detail/C1525.html
+1,C52016390,HX PH254-01-02-Z-L11.5 male header connector,hanxia,"Through Hole,P=2.54mm",,"Pin Header 1 2.5mm 6mm 2P -40℃~+105℃ 3mm 2.54mm 3A 1kV 1x2P Through Hole,P=2.54mm Headers, Male Pins RoHS",yes,50,50,50,0.0130,0.65,https://www.lcsc.com/product-detail/C52016390.html
+2,C9006,X322525MOB4SI,YXC Crystal Oscillators,SMD3225-4P,,Crystal 25MHz ±10ppm 12pF SMD3225-4P,yes,5,5,5,0.1040,0.52,https://www.lcsc.com/product-detail/C9006.html
+3,C2761340,RTL8111H-CG,REALTEK,QFN-32-EP(4x4),,"3.3V QFN-32-EP(4x4) Drivers, Receivers, Transceivers RoHS",yes,1,1,1,1.9971,2.00,https://www.lcsc.com/product-detail/C2761340.html
+4,C22457393,LPJG0926HENL,LINK-PP,Through Hole,,Shielded 1 Right Angle With LED Through Hole Modular/Ethernet Connector Jacks With Magnetics RoHS,yes,2,1,1,3.8943,7.79,https://www.lcsc.com/product-detail/C22457393.html
+5,C90627,TPD4EUSB30DQAR,TI,USON-10(1x2.5),,8VC Clamp 5A@8/20us Ipp ESD DIODE USON-10(1x2.5),yes,5,5,5,0.4490,2.25,https://www.lcsc.com/product-detail/C90627.html
+6,C5289795,476591100,MOLEX,SMD,,"19P Surface Mount,Vertical SMD USB, DVI, HDMI Connector Assemblies RoHS",yes,1,1,1,1.5875,1.59,https://www.lcsc.com/product-detail/C5289795.html
+7,C3235509,RT9742SNGV,RICHTEK,SOT-23-3,,"1 Active High 500mA High Side Switch SOT-23-3 Power Distribution Switches, Load Drivers RoHS",yes,1,1,1,0.4763,0.48,https://www.lcsc.com/product-detail/C3235509.html
+8,C212302,AP2553W6-7,DIODES,SOT-26,,"1 Active High 2.1A High Side Switch SOT-26 Power Distribution Switches, Load Drivers RoHS",yes,5,5,5,0.2372,1.19,https://www.lcsc.com/product-detail/C212302.html
+9,C1855726,TPD2E2U06DCKR,TI,SC-70-3,,12.4VC Clamp 5.5A@8/20us Ipp TVS DIODE SC-70-3,yes,5,5,5,0.1532,0.77,https://www.lcsc.com/product-detail/C1855726.html
+10,C431541,MSK12C02-HB,SHOU HAN,"SMD,8x2.8mm",,"Slide Switch SPDT 50mA @ 12V Surface Mount, Right Angle Rectangular Columnar 8mm",yes,10,10,10,0.0582,0.58,https://www.lcsc.com/product-detail/C431541.html
+11,C852700,RT0402BRD072K49L,YAGEO,0402,,62.5mW 2.49kΩ 50V Thin Film Resistor ±25ppm/℃ ±0.1% 0402 Chip Resistor - Surface Mount RoHS,yes,20,20,20,0.0256,0.51,https://www.lcsc.com/product-detail/C852700.html
+12,C110776,RT0603BRD071KL,YAGEO,0603,,100mW 1kΩ 75V Thin Film Resistor ±25ppm/℃ ±0.1% 0603 Chip Resistor - Surface Mount RoHS,yes,20,20,20,0.0237,0.47,https://www.lcsc.com/product-detail/C110776.html
+13,C326733,RT0603BRD0715KL,YAGEO,0603,,15kΩ 100mW 75V Thin Film Resistor ±25ppm/℃ ±0.1% 0603 Chip Resistor - Surface Mount RoHS,yes,20,20,20,0.0297,0.59,https://www.lcsc.com/product-detail/C326733.html
+14,C6782225,10164227-1001A1RLF,Amphenol,"SMD,P=0.4mm",,"100 Position Board to Board Connector Surface Mount,P=0.4mm Gold",yes,2,1,1,1.7712,3.54,https://www.lcsc.com/product-detail/C6782225.html
+15,C5199422,3034,Keystone,-,,Battery Product Accessories RoHS,yes,1,1,1,0.3552,0.36,https://www.lcsc.com/product-detail/C5199422.html
+16,C160390,BM04B-SRSS-TB(LF)(SN),JST,"SMD,P=1mm",,"Connector Header 4 position 1mm Pitch 1A Surface Mount,Vertical -25℃~+85℃",yes,5,5,5,0.2322,1.16,https://www.lcsc.com/product-detail/C160390.html
+17,C720548,USB-269-BRW,XUNPU,"Through Hole,Right Angle",,USB-A (USB TYPE-A) Receptacle Connector 4 Positionx2 Right Angle,yes,5,5,5,0.2944,1.47,https://www.lcsc.com/product-detail/C720548.html
+18,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,yes,5,5,5,0.1857,0.93,https://www.lcsc.com/product-detail/C165948.html
+19,C965804,XL-1608UGC-04,XINGLIGHT,0603,,Emerald Green 525nm LED Indication - Discrete 3.3V 0603,yes,100,100,100,0.0050,0.50,https://www.lcsc.com/product-detail/C965804.html
+20,C965799,XL-1608SURC-06,XINGLIGHT,0603,,Red 625nm LED Indication - Discrete 2.3V 0603,yes,100,100,100,0.0035,0.35,https://www.lcsc.com/product-detail/C965799.html
+21,C106201,CC0402JRNPO9BN120,YAGEO,0402,,12pF ±5% 50V Ceramic Capacitor NP0 0402,yes,100,100,100,0.0027,0.27,https://www.lcsc.com/product-detail/C106201.html
+22,C335103,GRM035R60J475ME15D,muRata,0201,,4.7uF ±20% 6.3V Ceramic Capacitor X5R 0201,yes,10,10,10,0.0732,0.73,https://www.lcsc.com/product-detail/C335103.html
+23,C307380,CL03A104KO3NNNC,Samsung Electro-Mechanics,0201,,100nF ±10% 16V Ceramic Capacitor X5R 0201,yes,100,100,100,0.0029,0.29,https://www.lcsc.com/product-detail/C307380.html
+24,C307331,CL05B104KB54PNC,Samsung Electro-Mechanics,0402,,100nF ±10% 50V Ceramic Capacitor X7R 0402,yes,100,100,100,0.0077,0.77,https://www.lcsc.com/product-detail/C307331.html
+25,C165974,EEEFTH101XAP,PANASONIC,"SMD,D6.3xL7.7mm",,100uF ±20% 50V Aluminum Electrolytic Capacitors 2000hrs@105℃,yes,5,5,5,0.3918,1.96,https://www.lcsc.com/product-detail/C165974.html
+26,C962136,CL10A106KO8NQNC,Samsung Electro-Mechanics,0603,,10uF ±10% 16V Ceramic Capacitor X5R 0603,yes,10,10,10,0.0433,0.43,https://www.lcsc.com/product-detail/C962136.html
+27,C1591,CL10B104KB8NNNC,Samsung Electro-Mechanics,0603,,100nF ±10% 50V Ceramic Capacitor X7R 0603,yes,100,100,100,0.0115,1.15,https://www.lcsc.com/product-detail/C1591.html
