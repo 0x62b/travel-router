@@ -58,7 +58,7 @@ Follow this [guide](https://ten64doc.traverse.com.au/applications/cellular/) for
 <img width="1238" height="1123" alt="image" src="https://github.com/user-attachments/assets/3fb5c116-3a4a-4d5a-95f5-2b7d286f4261" />
 
 ### Full render
-[to update]
+<img width="948" height="678" alt="image" src="https://github.com/user-attachments/assets/41a96ce0-df74-4c52-9b15-2e5245bd45cf" />
 
 ### Zine page
-[to update]
+<img width="1410" height="2000" alt="CM5 Router" src="https://github.com/user-attachments/assets/075bf0ed-646b-42b6-bf56-f32f1d56188a" />
