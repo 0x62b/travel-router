@@ -29,6 +29,8 @@ PCB: 7 USD + 1.50 USD shipping = 8.50 USD\
 Total: 51.19 USD (parts I need) // 163.69 USD (total)
 
 ## Assembly
+A kind of oversimplified guide to building this project if you want to replicate it for some reason
+
 ### Soldering
 This can't really be made much more simple. It is a very hard board to handsolder, even with decent equipment. There are very fine-pitch QFNs and connectors, along with some 0201 passives (decoupling caps). If you are building this for some reason and really want to solder the board yourself, start with the smaller passives and work up to bigger parts, doing the big through hole components last. If you want to recreate this project, PCBA may be a good choice, at least for part of the board.
 
@@ -36,10 +38,18 @@ This can't really be made much more simple. It is a very hard board to handsolde
 This should be a very easy print. No specific print settings or filament are required, except for supports for the ports on the bottom case. A BambuStudio 3mf file is included in the `cad/` subdirectory.
 
 ### Full assembly
-[to update]
+Prerequisites: solder the PCB, print the case, collect all other required parts
+1. Attach the CM5 to the carrier board
+2. Insert an RTC battery (CR2032)
+3. Place the PCB into the case and screw into place with the M3 screws
+4. Add the fan/heatsink assembly and screw into place with the M2.5 screws
+5. Prepare the power button and affix it to the hole
+6. Attach an HDMI cable and flash OpenWRT onto the device
+7. Configure OpenWRT following the instructions in the below section
+8. Screw in the lid with the M2 screws
 
 ## Configuring OpenWRT
-(this is a wip as i try to figure out how this software works)\
+(this is a wip as i try to figure out how this software works as I actually build the project)\
 (no i do not know. once i finish building this thing, assuming it works, ill have to wing it)\
 The basic gist of it is that you want one of the Ethernet ports configured as a WAN port, one as a LAN port, and wifi set up as a bridge, where you can get a "WAN" network over wifi and broadcast it as "LAN". If you have a USB cellular modem, you can also add that.
 
