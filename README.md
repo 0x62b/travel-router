@@ -1,5 +1,5 @@
 # CM5 Router
-A carrier board for Raspberry Pi CM5 with dual 1G ethernet and wifi that turns it into a portable travel router. Also supports LTE/5G dongle over USB ([example](https://www.telstra.com.au/internet/mobile-broadband/prepaid/4gx-mf833v-usb-2026)). Using OpenWRT for firmware.
+A carrier board for Raspberry Pi CM5 with dual 1G ethernet and wifi that turns it into a portable travel router. Also supports LTE/5G dongle over USB ([example](https://www.telstra.com.au/internet/mobile-broadband/prepaid/4gx-mf833v-usb-2026)). Using OpenWRT for firmware. [onshape link](https://cad.onshape.com/documents/ac7af34a2b8f11fe38ae6564/w/c8135ace2385cb6ff4c9d748/e/cb10deb1874ff2f63763bead?renderMode=0&uiState=6a36829817fe1dd1d0f83039)
 
 Functions:
 * Dual 1G ethernet
