@@ -45,7 +45,7 @@ A kind of oversimplified guide to building this project if you want to replicate
 This can't really be made much more simple. It is a very hard board to handsolder, even with decent equipment. There are very fine-pitch QFNs and connectors, along with some 0201 passives (decoupling caps). If you are building this for some reason and really want to solder the board yourself, start with the smaller passives and work up to bigger parts, doing the big through hole components last. If you want to recreate this project, PCBA may be a good choice, at least for part of the board.
 
 ### 3D printing
-This should be a very easy print. No specific print settings or filament are required, except for supports for the ports on the bottom case. A BambuStudio 3mf file is included in the `cad/` subdirectory.
+This should be a very easy print. No specific print settings or filament are required, except for supports for the ports on the bottom case.
 
 ### Full assembly
 Prerequisites: solder the PCB, print the case, collect all other required parts
