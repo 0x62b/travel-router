@@ -39,14 +39,20 @@ This should be a very easy print. No specific print settings or filament are req
 
 ### Full assembly
 Prerequisites: solder the PCB, print the case, collect all other required parts
-1. Attach the CM5 to the carrier board
-2. Insert an RTC battery (CR2032)
-3. Place the PCB into the case and screw into place with the M3 screws
-4. Add the fan/heatsink assembly and screw into place with the M2.5 screws
-5. Prepare the power button and affix it to the hole
-6. Attach an HDMI cable and flash OpenWRT onto the device
-7. Configure OpenWRT following the instructions in the below section
-8. Screw in the lid with the M2 screws
+1. Place the spacers for the heatsink/fan assembly aligned with the screw holes in the PCB
+2. Attach the CM5 to the carrier board
+3. Screw in the assembly from the bottom using the included screws
+4. Insert a CR2032 RTC battery into the slot on the carrier board
+5. Place the assembled PCB into the case and screw into place using M3x4 screws
+6. Prepare the power button and affix it to the hole, then plug it into the header on the PCB
+7. Before closing the case, attach an HDMI cable and flash OpenWRT onto the device
+8. Configure OpenWRT based on the below section
+9. Disconnect the HDMI cable and screw in the lid using M2x10 screws
+
+The reasoning for the HDMI port only being accessible when the device is disassembled is that-
+* It is only used for flashing/configuring/debugging the device, which would usually occur in a disassembled state anyway
+* Having the port inside removes the need for yet another opening in the case, better protecting it from ESD etc.
+* This footprint allowed for MUCH easier routing during the design phase.
 
 ## Configuring OpenWRT
 (this is a wip as i try to figure out how this software works as I actually build the project)\
