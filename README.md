@@ -27,6 +27,8 @@ There are some 3D model files in the design that are not in the KiCad libraries.
 * Any remaining models not listed here should be in the Raspberry Pi CM5IO files
 LCSC part numbers can be used to get 3D models through [easyeda2kicad](https://github.com/uPesy/easyeda2kicad.py)
 
+You may also notice that the CM5 model is missing from the Onshape assembly. This is because it was already extremely laggy after adding this model in KiCad, so I don't want to know how bad it'll be in onshape
+
 ## Cost breakdown
 LCSC: 34.59 USD parts + 8.1 USD shipping = 42.69 USD\
 Other (parts I own but are still in the BOM):
