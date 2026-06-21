@@ -87,4 +87,4 @@ Follow this [guide](https://ten64doc.traverse.com.au/applications/cellular/) for
 <img width="948" height="678" alt="image" src="https://github.com/user-attachments/assets/41a96ce0-df74-4c52-9b15-2e5245bd45cf" />
 
 ### Zine page
-<img width="1410" height="2000" alt="CM5 Router" src="https://github.com/user-attachments/assets/075bf0ed-646b-42b6-bf56-f32f1d56188a" />
+<img width="699" height="994" alt="image" src="https://github.com/user-attachments/assets/4bf21a43-f88d-4086-88f0-ee2d5e37d3e9" />
