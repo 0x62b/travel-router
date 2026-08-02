@@ -88,3 +88,5 @@ Follow this [guide](https://ten64doc.traverse.com.au/applications/cellular/) for
 
 ### Zine page
 <img width="699" height="994" alt="image" src="https://github.com/user-attachments/assets/4bf21a43-f88d-4086-88f0-ee2d5e37d3e9" />
+
+update 02/08/26: it's still not built because LCSC is out of stock of many components in my bom </3 rest of the project/fw info will go up when i can actually get the board and parts
